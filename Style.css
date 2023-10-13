@@ -159,7 +159,6 @@ tab-contents ul li span{
     font-size: 13px;
     font-weight: 300;
     border-right: 10px;
-    transition: background 0.5s, transform 0.5s;
 }
 .services-list div i{
     font-size: 50px;
